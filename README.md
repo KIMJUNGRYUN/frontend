@@ -1,4 +1,5 @@
 ## 리엑트 && SpringBoot
+#[backend 보기](https://github.com/KIMJUNGRYUN/backend/tree/main)
 
 # 프론트엔트 설정, 새 리액트 프로젝트 만들기
 
